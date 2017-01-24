@@ -1,10 +1,10 @@
 {
-    "name": "digilist/geobundle",
+    "name": "alireza/geobundle",
     "description": "Doctrine Geo extensions",
     "license": "MIT",
     "authors": [
         {
-            "name": "Markus Fasselt",
+            "name": "Alireza Rahmani",
             "email": "markus.fasselt@gmail.com"
         }
     ],
